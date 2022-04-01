@@ -13,8 +13,8 @@ const config = {
     },
 
     production: {
-      applicationId: 'TODO',
-      url: 'https://your_app_hostname.com',
+      applicationId: 'cl1g5iamd6675801ywg6j356mr',
+      url: 'https://render-ct-ui-test.onrender.com',
     },
   },
 
